@@ -420,6 +420,7 @@ for(let slot=54;slot<=89;slot++)
     }
 }
 Chat.log("done")
+
 for(let i=0;i<clearly.length;i++)
 {
     Chat.logColor("§c"+clearly[i].id+"不足，缺"+clearly[i].num)
